@@ -1,0 +1,13 @@
+/**
+ * @file
+ * Webform example composite styles.
+ */
+
+ .countable-activity-composite--wrapper label { display: block; }
+ .webform-multiple-table .form-item + .form-item {
+ 	margin-top: 0.4em;
+ 	margin-left: 1em;
+ }
+ .adjust-label-margin input {
+ 	margin-top: 0.33em;
+ }

@@ -1,0 +1,7 @@
+countable_activity_composite:
+  version: VERSION
+  css:
+    theme:
+      css/countable_activity_composite.css: {}
+  dependencies:
+    - webform/webform.composite

@@ -1,0 +1,8 @@
+name: 'Countable'
+type: module
+description: 'Custom module'
+core: 8.x
+dependencies:
+  - 'webform:webform'
+version: '8.x-1.x'
+project: 'custom'
